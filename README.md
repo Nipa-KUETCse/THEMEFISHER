@@ -8,7 +8,7 @@ It contains HTML, CSS and JavaScript-based design templates for typography, form
 
 ## Template Image
 
-* Constra - Construction Template
+* [onstra - Construction Template](https://themefisher.com/_next/image?url=https%3A%2F%2Fdemo.themefisher.com%2Fthumbnails%2Fconstra.png&w=640&q=80)
 
 ![Constra - Construction Template](https://themefisher.com/_next/image?url=https%3A%2F%2Fdemo.themefisher.com%2Fthumbnails%2Fconstra.png&w=640&q=80) 
 
