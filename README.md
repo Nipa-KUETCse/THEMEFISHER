@@ -9,4 +9,4 @@ It contains HTML, CSS and JavaScript-based design templates for typography, form
 
 ## Template Image
 
-![Constra - Construction Template](/images/constra.jpg)
+![Constra - Construction Template](constra-main/images/constra.jpg)
