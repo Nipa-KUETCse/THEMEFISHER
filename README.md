@@ -8,15 +8,23 @@ It contains HTML, CSS and JavaScript-based design templates for typography, form
 
 ## Template Image
 
-* [onstra - Construction Template](https://themefisher.com/_next/image?url=https%3A%2F%2Fdemo.themefisher.com%2Fthumbnails%2Fconstra.png&w=640&q=80)
+1. [Constra - Construction Template](https://themefisher.com/_next/image?url=https%3A%2F%2Fdemo.themefisher.com%2Fthumbnails%2Fconstra.png&w=640&q=80)
 
 ![Constra - Construction Template](https://themefisher.com/_next/image?url=https%3A%2F%2Fdemo.themefisher.com%2Fthumbnails%2Fconstra.png&w=640&q=80) 
 
+2. [Focus - Bootstrap Admin Template](https://themefisher.com/_next/image?url=https%3A%2F%2Fdemo.themefisher.com%2Fthumbnails%2Ffocus.png&w=640&q=80)
+
 ![Focus - Bootstrap Admin Template](https://themefisher.com/_next/image?url=https%3A%2F%2Fdemo.themefisher.com%2Fthumbnails%2Ffocus.png&w=640&q=80)
+
+3. [Meghna - One Page Business template](https://themefisher.com/_next/image?url=https%3A%2F%2Fdemo.themefisher.com%2Fthumbnails%2Fmeghna.png&w=640&q=80)
 
 ![Meghna - One Page Business template](https://themefisher.com/_next/image?url=https%3A%2F%2Fdemo.themefisher.com%2Fthumbnails%2Fmeghna.png&w=640&q=80)
 
+4. [Megakit - Mutipurpose Template](https://themefisher.com/_next/image?url=https%3A%2F%2Fdemo.themefisher.com%2Fthumbnails%2Fmegakit.png&w=640&q=80)
+
 ![Megakit - Mutipurpose Template](https://themefisher.com/_next/image?url=https%3A%2F%2Fdemo.themefisher.com%2Fthumbnails%2Fmegakit.png&w=640&q=80)
+
+5. [Classimax - Classified Website Template](https://themefisher.com/_next/image?url=https%3A%2F%2Fdemo.themefisher.com%2Fthumbnails%2Fclassimax.png&w=640&q=80)
 
 ![Classimax - Classified Website Template](https://themefisher.com/_next/image?url=https%3A%2F%2Fdemo.themefisher.com%2Fthumbnails%2Fclassimax.png&w=640&q=80)
 
