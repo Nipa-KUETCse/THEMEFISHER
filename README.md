@@ -5,7 +5,7 @@ Amazing Bootstrap And HTML5 Templates which is Incredible website templates with
 
 ## Resources
 
-* Amazing Bootstrap And HTML5 Templatese ( [THEMEFISHER](https://themefisher.com/free-bootstrap-templates) )
+* Amazing Bootstrap And HTML5 Template ( [THEMEFISHER](https://themefisher.com/free-bootstrap-templates) )
 
 ## Template Image
 
