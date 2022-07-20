@@ -6,4 +6,8 @@ It contains HTML, CSS and JavaScript-based design templates for typography, form
 ## Resources
 * [Bootstrap Template](https://themefisher.com/free-bootstrap-templates)
 
+## Template Image
+
+![Constra - Construction Template](https://themefisher.com/_next/image?url=https%3A%2F%2Fdemo.themefisher.com%2Fthumbnails%2Fconstra.png&w=640&q=80)
+
 
